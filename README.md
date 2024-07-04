@@ -4,7 +4,7 @@ Un blog increíble para el curso de Git y Github en Platzi
 > El aprendizaje continuo y la curiosidad por el desarrollo me han llevado a realizar este proyecto
 > - Mario
 
-##Algunos de los temas visto en el curso de Platzi son:
+## Algunos de los temas visto en el curso de Platzi son:
 - Qué es Git y Github
 - Cómo trabajar desde consola con los comandos de Git
 - Trabajo con branch
