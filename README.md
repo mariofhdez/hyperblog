@@ -13,3 +13,4 @@ Un blog increíble para el curso de Git y Github en Platzi
 - Tags y control de versiones
 - Agregar colaboladores y el flujo de trabajo en equipos
 - Y muchas cosas grandiosas
+- Creado por el increíble equipo de Platzi
