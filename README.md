@@ -15,3 +15,4 @@ Un blog increíble para el curso de Git y Github en Platzi
 - Y muchas cosas grandiosas
 - Creado por el increíble equipo de Platzi
 - Incluye ejemplos en Windows Linux y Mac
+- Disponible para todas las edades
