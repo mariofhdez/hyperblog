@@ -12,6 +12,12 @@ Es un genio.
 
 Mario junior dev es mi alterego que uso para realizar pull request que no me atrevería a realizar con mi propia cuenta ;p
 
+<<<<<<< HEAD
 Master 1
 
 Master 2
+=======
+Experimento 1
+
+Master 1
+>>>>>>> d605bc4 (exp 1)
